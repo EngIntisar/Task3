@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(246, 255, 255);
+    height: 739px;
+    width: 100%;
+}
+.column1
+{
+    background-image: src="assets/images/bac1.jpg" alt="";
+    width: 600px;
+     height: 400px;
+      margin-top: 150px;
+       margin-left: 60px;
+        border-radius: 6px;
+        box-shadow: 2px 2px 2px 2px darkgreen;
+}
+
+.column2
+{
+    background-image: src="assets/images/bac1.jpg" alt="";
+    width: 600px;
+     height: 400px;
+      margin-top: 150px;
+       margin-left: 60px;
+        border-radius: 6px;
+        background-color: rgb(246, 255, 255);
+}
+
+.p
+{
+    text-align: center;
+  text-decoration-color: darkblue;
+    text-decoration: double;
+    color: red;
+    margin-top: 2000px;
+  
+}
+
+.buttonvisit:hover
+{
+    background-color: #0ebb17;
+    cursor: pointer;
+    transition: -200000000ms;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
